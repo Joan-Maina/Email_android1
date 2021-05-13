@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My ApplicationEmail</string>
+    <string name="email_com">/@email.com</string>
+    <string name="send">SEND</string>
+    <string name="enter_your_email">Enter your email:</string>
+    <string name="enter_the_subject_of_your_email">Enter the subject of your email</string>
+    <string name="enter_details">Enter details.</string>
+    <string name="tosendemail_com">TOSENDEMAIL.COM</string>
+</resources>
